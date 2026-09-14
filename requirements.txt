@@ -1,0 +1,2 @@
+# EcoTrack application: Python standard library only.
+# Tkinter is normally bundled with desktop Python distributions.
